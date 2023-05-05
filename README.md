@@ -61,13 +61,13 @@ with total confidence. We believe there’s a better way to manage software
 assets and packages, and they're making it happen!
 
 [1]: https://symfony.com/download
-[2]: https://symfony.com/doc/current/setup.html#creating-symfony-applications
-[3]: https://symfony.com/doc/current/setup/symfony_server.html
-[4]: https://symfony.com/doc/current/setup/symfony_server.html#enabling-tls
-[5]: https://symfony.com/doc/current/setup.html#security-checker
+[2]: https://symfony.com/doc/5.4/setup.html#creating-symfony-applications
+[3]: https://symfony.com/doc/5.4/setup/symfony_server.html
+[4]: https://symfony.com/doc/5.4/setup/symfony_server.html#enabling-tls
+[5]: https://symfony.com/doc/5.4/setup.html#security-checker
 [6]: https://symfony.com/cloud
 [7]: https://symfony.com/download
 [8]: https://github.com/SigStore/cosign
 [9]: https://www.sigstore.dev/
 [10]: https://github.com/sigstore/cosign/blob/main/KEYLESS.md
-[11]: https://symfony.com/security
+[11]: https://symfony.com/doc/5.4/contributing/code/security.html
