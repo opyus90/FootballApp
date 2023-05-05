@@ -34,7 +34,6 @@ Alternatively, one can verify the signature by also providing the certificate:
 $ cosign verify-blob --cert symfony-cli.pem --signature symfony-cli.sig symfony-cli
 Verified OK
 ```
-
 Security Issues
 ---------------
 
