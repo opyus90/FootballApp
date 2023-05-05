@@ -34,6 +34,13 @@ Alternatively, one can verify the signature by also providing the certificate:
 $ cosign verify-blob --cert symfony-cli.pem --signature symfony-cli.sig symfony-cli
 Verified OK
 ```
+Description
+---------------
+
+This project is build with PHP 7.3.5, Symfony 5.4 and MariaDB 10.1.39 on the back-end side, 
+with standard JavaScript, jQuery 3.5.1 and Bootstrap 4.5.3 on the front-end.
+Also I have included inside the FootballApp the Database Table in SQL format under the name "football_teams".
+
 Security Issues
 ---------------
 
